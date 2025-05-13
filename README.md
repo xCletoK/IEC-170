@@ -2,8 +2,6 @@
 
 Un sistema básico de consola desarrollado en Python para gestionar el inventario de una tienda. Permite agregar, listar, buscar, eliminar y modificar productos de forma sencilla e interactiva.
 
-Skibidi Toilet
-
 ---
 
 ## 📌 Autor
